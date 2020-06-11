@@ -1,0 +1,10 @@
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\bin\Debug\CompareFiles1.exe.config
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\bin\Debug\CompareFiles1.exe
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\bin\Debug\CompareFiles1.pdb
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\obj\Debug\CompareFiles1.csprojAssemblyReference.cache
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\obj\Debug\CompareFiles1.Form1.resources
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\obj\Debug\CompareFiles1.Properties.Resources.resources
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\obj\Debug\CompareFiles1.csproj.GenerateResource.cache
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\obj\Debug\CompareFiles1.csproj.CoreCompileInputs.cache
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\obj\Debug\CompareFiles1.exe
+C:\Users\gamef\source\repos\CompareFiles1\CompareFiles1\obj\Debug\CompareFiles1.pdb
